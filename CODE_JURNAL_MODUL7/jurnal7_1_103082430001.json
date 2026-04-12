@@ -1,0 +1,11 @@
+{
+    "firstName": "Ariel",
+    "lastName": "Fadhillah",
+    "gender": "Male",
+    "age": 19,
+    "address": {
+        "streetAddress": "Jl.jl",
+        "city": "SBY",
+        "state": "JaTim"
+    }
+}
