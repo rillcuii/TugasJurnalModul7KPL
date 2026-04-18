@@ -1,0 +1,32 @@
+{
+	"members" : [
+	{
+		"nim" : "103082400033",
+		"namadepan" : "khalilur",
+		"namabelakang" : "Rahman",
+		"gender" : "pria",
+		"umur" : "20"
+	},
+	{
+		"nim" : "103082430001",
+		"namadepan" : "Ariel",
+		"namabelakang" : "Fadillah",
+		"gender" : "pria",
+		"umur" : "19"
+	},
+	{
+		"nim" : "103082400011",
+		"namadepan" : "Vryandra",
+		"namabelakang" : "Peztaria",
+		"gender" : "pria",
+		"umur" : "10"
+	},
+	{
+		"nim" : "103082400039",
+		"namadepan" : "Naufal",
+		"namabelakang" : "Ghufron",
+		"gender" : "pria",
+		"umur" : "21"
+	}
+	]
+}
