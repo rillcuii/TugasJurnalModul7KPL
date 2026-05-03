@@ -1,0 +1,18 @@
+﻿{
+    "members": [
+        {
+            "nim": "103082400042",
+            "firstName": "Very",
+            "lastName": "Andra",
+            "age": 20,
+            "gender": "Male"
+        },
+        {
+            "nim": "1234567890",
+            "firstName": "Budi",
+            "lastName": "Santoso",
+            "age": 21,
+            "gender": "Male"
+        }
+    ]
+}
